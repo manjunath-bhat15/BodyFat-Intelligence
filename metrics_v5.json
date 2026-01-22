@@ -1,0 +1,10 @@
+{
+    "Accuracy-focused (with Density)": {
+        "r2": 0.999,
+        "rmse": 0.21
+    },
+    "Explainability-focused (no Density)": {
+        "r2": 0.654,
+        "rmse": 4.01
+    }
+}

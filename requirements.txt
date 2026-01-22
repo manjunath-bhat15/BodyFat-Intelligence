@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+joblib
+huggingface_hub==0.19.4
